@@ -1,0 +1,2 @@
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+ssh: Could not resolve hostname ssh.pinggy.io: No such host is known. 
